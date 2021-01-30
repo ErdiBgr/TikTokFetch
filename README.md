@@ -8,7 +8,8 @@ print_r($user);
 # Result
 ```php
 Array ( 
-[id] => 107955 [shortId] => 0
+[id] => 107955 
+[shortId] => 0
 [uniqueId] => tiktok 
 [nickname] => TikTok 
 [avatarLarger] => "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1645136815763462~c5_1080x1080.jpeg?x-expires=1612112400&x-signature=3l%2BS628XCnUfLJF4yDpoBT2Kt7Q%3D"
@@ -29,3 +30,4 @@ Array (
 [roomId] => false 
 )
 ```
+I hope useful 😊
